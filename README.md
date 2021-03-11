@@ -6,3 +6,4 @@
 3.	Each Project folder has a Readme with a brief description of the requirements of the project, the train and test data files. The Jupyter notebook containing the code can be shared on request.
 4.	The data files should be downloaded into the same folder as the notebook (.ipynb file). 
 5.	The performance of each of the models has been evaluated on a validation set which is 20% of the respective train data.
+6.	The Projects have been implemented using Pipelines.
